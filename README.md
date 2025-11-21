@@ -124,14 +124,14 @@ Voici le déroulement typique lorsque le joueur lance la scène :
 
 ---
 
-# 🏗 Télécharger l’exécutable
+#  Télécharger l’exécutable
 
-👉 Télécharger le build :  
-**https://github.com/USERNAME/TP1/releases/latest**
+ Télécharger le build :  
+**(https://github.com/yami-59/TP1/releases/tag/v1.0)**
 
 ---
 
-# 📁 Code source
+#  Code source
 
 👉 https://github.com/USERNAME/TP1
 
