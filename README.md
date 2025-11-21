@@ -2,10 +2,12 @@
 
 Projet réalisé dans le cadre du TP1 Unity.  
 L’objectif principal est d’explorer les mécaniques de tir, collisions, score, physique et contrôle FPS.
+
 <img width="1301" height="828" alt="image" src="https://github.com/user-attachments/assets/31989db9-b200-4b26-93d5-b482d091b29e" />
 
 
 **Capture : Aperçu global du projet (vue d’ensemble) **  
+
 <img width="1741" height="1008" alt="image" src="https://github.com/user-attachments/assets/34e8a6a0-16e2-432a-87ef-108abf4f320d" />
 
 ---
@@ -20,6 +22,7 @@ Cela donne un comportement simple et naturel de “viser puis tirer” en premi�
 
 
 **Capture : tir du projectile **  
+
 <img width="1919" height="1062" alt="image" src="https://github.com/user-attachments/assets/5d17ef3d-2e6c-4cce-95f2-9c7ba6b5ea65" />
 
 
@@ -31,6 +34,7 @@ Les projectiles entrent en collision avec son collider et ne peuvent donc pas pa
 
 
 **Capture : collision avec la voiture **  
+
 <img width="1913" height="1060" alt="image" src="https://github.com/user-attachments/assets/cd5d6330-bb0c-434a-bb90-364d8874404f" />
 
 
@@ -43,7 +47,9 @@ Lorsqu’un projectile touche un cube :
 - l’UI est mise à jour.
 
 **Capture : score mis à jour après destruction**  
+
 <img width="316" height="125" alt="image" src="https://github.com/user-attachments/assets/3c6f83ec-22d7-4975-8d49-609ca96d0aa7" />
+
 <img width="327" height="114" alt="image" src="https://github.com/user-attachments/assets/de61809b-0e0f-4d40-b4f1-e20b4592b1f4" />
 
 
@@ -54,11 +60,15 @@ Lorsqu’un projectile touche un cube :
 Les cubes tombent au début de la partie grâce au Rigidbody.
 
 **Captures : chutes des cubes**  
+
 État initial
+
 
 <img width="794" height="546" alt="image" src="https://github.com/user-attachments/assets/18f93dfc-e50b-44a2-a053-ece4e0c09e9c" />
 
+
 En jeu, les cubes commencent à tomber
+
 
 <img width="800" height="483" alt="image" src="https://github.com/user-attachments/assets/28a7320c-5d2c-4d9c-bebb-4818d8adf1f9" />
 
@@ -69,6 +79,7 @@ En jeu, les cubes commencent à tomber
 En appuyant sur R, le joueur déclenche la rotation des cubes (activation/désactivation).
 
 **Capture : rotation des cubes**  
+
 <img width="778" height="534" alt="image" src="https://github.com/user-attachments/assets/9a95f9f7-0356-4e45-8f08-ddc45fc94eec" />
 
 
@@ -80,7 +91,9 @@ En appuyant sur R, le joueur déclenche la rotation des cubes (activation/désac
 Le joueur peut viser sous différents angles.
 
 **Captures : vue FPS & changement d’angle**  
+
 <img width="1905" height="1051" alt="image" src="https://github.com/user-attachments/assets/9b397371-39ea-49a4-9b62-61c6d7113db3" />
+
 
 <img width="1912" height="1052" alt="image" src="https://github.com/user-attachments/assets/259504ac-996a-468c-b05f-6a3b90ced6da" />
 
@@ -93,6 +106,7 @@ Le joueur peut viser sous différents angles.
 Voici le déroulement typique lorsque le joueur lance la scène :
 
 ### ▶️ Étape 1 — Le joueur apparaît en vue FPS
+
 <img width="1908" height="997" alt="image" src="https://github.com/user-attachments/assets/269dfabc-63bd-4824-baa1-342c815f3252" />
 
 ---
@@ -127,13 +141,13 @@ Voici le déroulement typique lorsque le joueur lance la scène :
 #  Télécharger l’exécutable
 
  Télécharger le build :  
-**(https://github.com/yami-59/TP1/releases/tag/v1.0)**
+**https://github.com/yami-59/TP1/releases/tag/v1.0**
 
 ---
 
 #  Code source
 
-👉 https://github.com/USERNAME/TP1
+**https://github.com/yami-59/TP1.git**
 
 ---
 
