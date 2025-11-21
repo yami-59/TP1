@@ -3,9 +3,6 @@
 Projet réalisé dans le cadre du TP1 Unity.  
 L’objectif principal est d’explorer les mécaniques de tir, collisions, score, physique et contrôle FPS.
 
-<img width="1301" height="828" alt="image" src="https://github.com/user-attachments/assets/31989db9-b200-4b26-93d5-b482d091b29e" />
-
-
 **Capture : Aperçu global du projet (vue d’ensemble) **  
 
 <img width="1741" height="1008" alt="image" src="https://github.com/user-attachments/assets/34e8a6a0-16e2-432a-87ef-108abf4f320d" />
